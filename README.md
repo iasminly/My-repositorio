@@ -12,3 +12,4 @@ Repositório criado para os exercícios práticos de Git e GitHub da Aula 06.
 git add README.md
 git commit -m "Adiciona o README.md"
 git push origin master
+Teste
